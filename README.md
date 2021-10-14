@@ -6,6 +6,8 @@ Currently studying Flutter and Svelte
 
 Looking forward to the first release of Svelte kit to start using it in real projects
 
+[![stLmpp's github stats](https://github-readme-stats.vercel.app/api?username=stLmpp)](https://github.com/stLmpp)
+
 <!--
 **stLmpp/stLmpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
