@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I like Angular and NestJS :)
+
+Currently studying Flutter and Svelte
+
+Looking forward to the first release of Svelte kit to start using it in real projects
+
 <!--
 **stLmpp/stLmpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
