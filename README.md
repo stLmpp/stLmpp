@@ -5,6 +5,7 @@ Atualmente estudando Flutter e Svelte
 <div>
   <a href="https://github.com/stLmpp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stLmpp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stLmpp&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## Stack
