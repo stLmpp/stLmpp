@@ -12,6 +12,7 @@ Atualmente estudando Flutter e Svelte
 <p>
   <img src="https://img.shields.io/badge/Typescript-informational"/>
   <img src="https://img.shields.io/badge/Javascript-informational"/>
+  <img src="https://img.shields.io/badge/Svelte-informational"/>
   <img src="https://img.shields.io/badge/Angular-informational"/>
   <img src="https://img.shields.io/badge/NodeJS-informational"/>
   <img src="https://img.shields.io/badge/NestJS-informational"/>
