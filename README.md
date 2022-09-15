@@ -1,6 +1,6 @@
-Curto bastante Angular e NestJS :)
+Angular x NestJS ❤️
 
-Atualmente estudando Flutter e Svelte
+Atualmente estudando <a href="https://www.electronjs.org/">Electron</a>, <a href="https://kit.svelte.dev/">SvelteKit</a>, <a href="https://www.solidjs.com/">SolidJS</a>
 
 <div>
   <a href="https://github.com/stLmpp">
@@ -10,16 +10,50 @@ Atualmente estudando Flutter e Svelte
 
 ## Stack
 <p>
-  <img src="https://img.shields.io/badge/Typescript-informational"/>
-  <img src="https://img.shields.io/badge/Javascript-informational"/>
-  <img src="https://img.shields.io/badge/Svelte-informational"/>
-  <img src="https://img.shields.io/badge/Angular-informational"/>
-  <img src="https://img.shields.io/badge/NodeJS-informational"/>
-  <img src="https://img.shields.io/badge/NestJS-informational"/>
-  <img src="https://img.shields.io/badge/TypeORM-informational"/>
-  <img src="https://img.shields.io/badge/Postgres-informational"/>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/Typescript-informational"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/Javascript-informational"/>
+  </a>
+  <a href="https://svelte.dev/">
+    <img src="https://img.shields.io/badge/Svelte-informational"/>
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-informational"/>
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NodeJS-informational"/>
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-informational"/>
+  </a>
+  <a href="https://typeorm.io/">
+    <img src="https://img.shields.io/badge/TypeORM-informational"/>
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/Prisma-informational"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Postgres-informational"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/SQLite-informational"/>
+  </a>
+  <a href="https://material.io/design">
+    <img src="https://img.shields.io/badge/Material%20Design-informational"/>
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite-informational"/>
+  </a>
+  <a href="https://vitest.dev/">
+    <img src="https://img.shields.io/badge/Vitest-informational"/>
+  </a>
+  <a href="https://jestjs.io/pt-BR/">
+    <img src="https://img.shields.io/badge/Jest-informational"/>
+  </a>
 </p>
-  
+
 ## Contato
 <a href="https://www.linkedin.com/in/guilherme-stl/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
