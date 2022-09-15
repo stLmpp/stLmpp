@@ -52,6 +52,9 @@ Atualmente estudando <a href="https://www.electronjs.org/">Electron</a>, <a href
   <a href="https://jestjs.io/pt-BR/">
     <img src="https://img.shields.io/badge/Jest-informational"/>
   </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/SASS-informational"/>
+  </a>
 </p>
 
 ## Contato
