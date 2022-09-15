@@ -1,7 +1,8 @@
 Angular x NestJS ❤️
 
-Atualmente estudando <a href="https://www.electronjs.org/">Electron</a>, <a href="https://kit.svelte.dev/">SvelteKit</a>
-, <a href="https://www.solidjs.com/">SolidJS</a>
+Atualmente estudando <a href="https://www.electronjs.org/" target="_blank">Electron</a>
+, <a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a>
+, <a href="https://www.solidjs.com/" target="_blank">SolidJS</a>
 
 <div>
   <a href="https://github.com/stLmpp">
