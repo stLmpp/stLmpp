@@ -6,7 +6,6 @@ Atualmente estudando <a href="https://www.electronjs.org/" target="_blank">Elect
 
 <div>
   <a href="https://github.com/stLmpp">
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stLmpp&show_icons=true&theme=react&count_private=true"/>-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stLmpp&layout=compact&langs_count=8&theme=react"  alt="Top languages"/>
   </a>
 </div>
