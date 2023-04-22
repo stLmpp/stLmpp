@@ -8,56 +8,6 @@ Atualmente estudando <a href="https://dart.dev/" target="_blank">Dart</a>, <a hr
   </a>
 </div>
 
-## Stack
-
-<p>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Typescript-informational" alt="Typescript"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/Javascript-informational" alt="Javascript"/>
-  </a>
-  <a href="https://svelte.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Svelte-informational" alt="Svelte"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-informational" alt="Angular"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/NodeJS-informational" alt="NodeJS"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NestJS-informational" alt="NestJS"/>
-  </a>
-  <a href="https://typeorm.io/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeORM-informational" alt="TypeORM"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-informational" alt="Prisma"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Postgres-informational" alt="Postgres"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-informational" alt="SQLite"/>
-  </a>
-  <a href="https://material.io/design" target="_blank">
-    <img src="https://img.shields.io/badge/Material%20Design-informational" alt="Material Design"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-informational" alt="Vite"/>
-  </a>
-  <a href="https://vitest.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vitest-informational" alt="Vitest"/>
-  </a>
-  <a href="https://jestjs.io/pt-BR/" target="_blank">
-    <img src="https://img.shields.io/badge/Jest-informational" alt="Jest"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SASS-informational" alt="SASS"/>
-  </a>
-</p>
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/guilherme-stl/" target="_blank">
