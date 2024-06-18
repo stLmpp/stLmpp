@@ -1,7 +1,3 @@
-Angular x NestJS ❤️
-
-Atualmente estudando <a href="https://dart.dev/" target="_blank">Dart</a>, <a href="https://flutter.dev/" target="_blank">Flutter</a> e <a href="https://kit.svelte.dev/" target="_blank">Sveltekit</a>
-
 <div>
   <a href="https://github.com/stLmpp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stLmpp&layout=compact&langs_count=8&theme=react"  alt="Top languages"/>
